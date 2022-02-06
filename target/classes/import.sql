@@ -1,0 +1,1 @@
+INSERT INTO music_genres (name) VALUES('Rock'),('Pop'),('Jazz'),('Clasica');
